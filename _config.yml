@@ -15,20 +15,20 @@ keywords: "workshops, websites, gh-pages, jekyll"
 featured-image: "/images/uidaho-workshop.jpg"
 
 # author settings for cc-by, appears in the footer
-author: Corey Oglesby
+author: Jeremy Kenyon
 pub_year: 2019
-github_username: coroglesby
+github_username: jkenyon
 
 # add the full url for the github repository
-repo: "https://github.com/coroglesby/podcast"
+repo: "https://github.com/jkenyon/workshop-template"
 
 # site urls
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
-url: https://coroglesby.github.io
+url: https://jkenyon.github.io
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /podcast
+baseurl: /workshops
 
 # add search box to footer?
 search: true
