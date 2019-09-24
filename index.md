@@ -3,22 +3,17 @@ title: Home
 layout: default
 ---
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="" width="100%" %}
+## ***Tools for Accessing Literature on the Web!***
+### A workshop at the University of Idaho Library  
 
-## Welcome to the University of Idaho Library's ***Podcasting Workshop!***  
+<br>
+Here, we will explore a number of tools that can make it easier to access academic literature while working in your browser.  Our focus is on tools that allow you to be "away" from the UI Library website, so that you can gain access the fastest and simplest way possible!
 
-Here, you'll find all the information you'll need to create a simple podcast (as well as a few <a href="{{ '/content/4-resources.html' | relative_url }}">additional resources</a> to help you along).
-
-<u><strong>A quick overview of what you'll find here:</strong></u>  
-- Links to the (free!) software we recommend downloading
-- How to capture and store the audio you'll be using
-- How to edit the audio (i.e. trimming, cutting, and moving it around)
-- Mixing the main audio with other audio (like voice-overs, music, etc.)
-- How to bounce the finished project down to a simple, shareable audio file
+There is more than we can cover in an hour, but here are links to <a href="{{ '/content/4-resources.html' | relative_url }}">additional resources</a> that you might find useful, or are curious for a deeper dive into the mechanics or organizations behind these tools.
 
 {% include toc.html %}
 
-If you complete this workshop and still have questions, please contact UI Library's Digital Project Manager, [Corey Oglesby](mailto:coglesby@uidaho.edu).
+If you complete this workshop and still have questions, please contact [Jeremy Kenyon](mailto:jkenyon@uidaho.edu), a Research Librarian at the UI Library, or the [reference desk](mailto:libref@uidaho.edu).
 
 Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/){:target='_blank'}, {{ site.pub_year }}.
 
