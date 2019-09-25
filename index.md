@@ -13,7 +13,7 @@ There is more than we can cover in an hour, but here are links to <a href="{{ '/
 
 {% include toc.html %}
 
-If you complete this workshop and still have questions, please contact [Jeremy Kenyon](mailto:jkenyon@uidaho.edu), a Research Librarian at the UI Library, or the [reference desk](mailto:libref@uidaho.edu).
+If you complete this workshop and still have questions, please contact **[Jeremy Kenyon](mailto:jkenyon@uidaho.edu)**, a Research Librarian at the UI Library, or the [reference desk](mailto:libref@uidaho.edu).
 
 Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/){:target='_blank'}, {{ site.pub_year }}.
 
